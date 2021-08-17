@@ -1,2 +1,2 @@
 # Ignore plotly HTML plots in linguist calculations
-plots/* linguist-vendored
+plots linguist-generated=true
