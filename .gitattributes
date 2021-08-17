@@ -1,0 +1,2 @@
+# Ignore plotly HTML plots in linguist calculations
+plots/* linguist-vendored
